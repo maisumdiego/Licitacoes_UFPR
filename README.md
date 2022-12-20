@@ -1,5 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=0:2B32B2,100:1488CC&section=header&height=120&text=Análise%20de%20licitações%20da%20UFPR&desc=Tratamento%20e%20visualização%20de%20dados&animation=fadeIn&fontColor=ffffff&fontSize=30&descSize=15&fontAlignY=45&descAlignY=70"/>
 
+## Navegação
+1. [Sobre o projeto](#sobre-o-projeto)  
+2. [Sobre o tema](#sobre-o-tema)
+2. [Tecnologias utilizadas](#tecnologias-utilizadas)  
+3. [Conhecendo os dados](#conhecendo-os-dados)  
+4. [Alguns gráficos obtidos](#alguns-gráficos-obtidos)   
+5. [Relatórios completos](#relatórios-completos)
+
+
 <div> 
 <img align=right width="28%" height="28%" src="https://www.ufpr.br/portalufpr/wp-content/uploads/2015/11/ufpr_logo.jpg">
   
@@ -25,7 +34,7 @@ De forma mais simples, podemos dizer que o governo deve comprar e contratar serv
 [![Locale](https://shields.io/badge/LOCALE-545454?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/pt-br/3.8/library/locale.html)
 
 
-[![Glob](https://shields.io/badge/GLOB-545454?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/library/glob.html#module-glob)
+[![Glob](https://shields.io/badge/GLOB-545454?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/library/glob.html#module-glob) 
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-545454?style=for-the-badge&logo=python&logoColor=white)](https://matplotlib.org/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-545454?style=for-the-badge&logo=python&logoColor=white)](https://matplotlib.org/)
 
@@ -50,9 +59,11 @@ De forma mais simples, podemos dizer que o governo deve comprar e contratar serv
 
 ## Alguns gráficos obtidos
 
+<div>
 <img width="60%" height="60%" src="https://raw.githubusercontent.com/maisumdiego/Licitacoes_UFPR/master/Processos%20homologados%20por%20ano.jpeg">
 <img width="100%" height="100%" src="https://raw.githubusercontent.com/maisumdiego/Licitacoes_UFPR/master/Modalidades%20e%20outras%20Homologadas.jpeg">
-<img width="60%" height="60%" src="https://raw.githubusercontent.com/maisumdiego/Licitacoes_UFPR/master/Valor%20m%C3%A1ximo%20por%20ano.jpeg">
-
+<img width="60%" height="60%" src="https://raw.githubusercontent.com/maisumdiego/Licitacoes_UFPR/master/Valor%20m%C3%A1ximo%20por%20ano.jpeg"> &nbsp;
+</div>
+  
 ## Relatórios completos
 O arquivo do relatório completo do tratamento de dados está disponível no arquivo [Tratamento de Dados](https://github.com/maisumdiego/Licitacoes_UFPR/blob/master/Tratamento%20de%20Dados.ipynb), já os gráficos obtidos podem ser encontrados no arquivo [Relatório de Análise de Dados](https://github.com/maisumdiego/Licitacoes_UFPR/blob/master/Relat%C3%B3rio%20de%20An%C3%A1lise%20de%20Dados%20I.ipynb) ou no próprio repositório.
