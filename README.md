@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=0:2B32B2,100:1488CC&section=header&height=120&text=Análise%20de%20licitações%20da%20UFPR&desc=Tratamento%20e%20visualização%20de%20dados&animation=fadeIn&fontColor=ffffff&fontSize=30&descSize=15&fontAlignY=45&descAlignY=70"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=0:32176e,100:6c3dd4&section=header&height=120&text=Análise%20de%20licitações%20da%20UFPR&desc=Tratamento%20e%20visualização%20de%20dados&animation=fadeIn&fontColor=ffffff&fontSize=30&descSize=15&fontAlignY=45&descAlignY=70"/>
 
 ## Navegação
 1. [Sobre o projeto](#sobre-o-projeto)  
@@ -24,9 +24,9 @@ De forma mais simples, podemos dizer que o governo deve comprar e contratar serv
 >"É necessário licitar porque o Poder Público tem este dever conforme é exigido pelo art. 37 da Constituição Federal. O processo licitatório é a maneira mais eficaz de assegurar que as contratações públicas ocorram de modo transparente, isonômico e sustentável."
 
 ## Tecnologias utilizadas
-[![Jupyter Notebook](https://img.shields.io/badge/jupyter-103b91.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/try)
-[![Python](https://img.shields.io/badge/python-103b91?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-103b91?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/pt-br/microsoft-365/excel)
+[![Jupyter Notebook](https://img.shields.io/badge/jupyter-32176e.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/try)
+[![Python](https://img.shields.io/badge/python-32176e?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-32176e?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/pt-br/microsoft-365/excel)
 
 ### Bibliotecas
 [![Pandas](https://img.shields.io/badge/pandas-545454.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
@@ -36,7 +36,7 @@ De forma mais simples, podemos dizer que o governo deve comprar e contratar serv
 
 [![Glob](https://shields.io/badge/GLOB-545454?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/library/glob.html#module-glob) 
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-545454?style=for-the-badge&logo=python&logoColor=white)](https://matplotlib.org/)
-[![Seaborn](https://img.shields.io/badge/Seaborn-545454?style=for-the-badge&logo=python&logoColor=white)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-545454?style=for-the-badge&logo=python&logoColor=white)](https://seaborn.pydata.org/)
 
 ## Conhecendo os dados
 ### Esquema original
