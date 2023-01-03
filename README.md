@@ -67,3 +67,5 @@ De forma mais simples, podemos dizer que o governo deve comprar e contratar serv
   
 ## Relatórios completos
 O arquivo do relatório completo do tratamento de dados está disponível no arquivo [Tratamento de Dados](https://github.com/maisumdiego/Licitacoes_UFPR/blob/master/Tratamento%20de%20Dados.ipynb), já os gráficos obtidos podem ser encontrados no arquivo [Relatório de Análise de Dados](https://github.com/maisumdiego/Licitacoes_UFPR/blob/master/Relat%C3%B3rio%20de%20An%C3%A1lise%20de%20Dados%20I.ipynb) ou no próprio repositório.
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=0:6c3dd4,100:32176e&section=footer&height=70&animation=fadeIn&fontColor=ffffff&fontSize=30&descSize=15&fontAlignY=45&descAlignY=70"/>
